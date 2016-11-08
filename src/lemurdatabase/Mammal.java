@@ -10,6 +10,6 @@ package lemurdatabase;
  *
  * @author luoos2514
  */
-public class Mammal {
+public abstract class Mammal {
     
 }
